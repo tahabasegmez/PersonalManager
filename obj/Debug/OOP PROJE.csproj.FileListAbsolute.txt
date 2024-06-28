@@ -1,0 +1,133 @@
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\OOP PROJE\bin\Debug\OOP PROJE.exe.config
+C:\Users\MONSTER\source\repos\OOP PROJE\bin\Debug\OOP PROJE.exe
+C:\Users\MONSTER\source\repos\OOP PROJE\bin\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP PROJE.exe
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\MONSTER\source\repos\OOP PROJE\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\bin\Debug\OOP PROJE.exe.config
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\bin\Debug\OOP PROJE.exe
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\bin\Debug\OOP PROJE.pdb
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP PROJE.exe
+C:\Users\furka\Downloads\OOP PROJE (4)\OOP PROJE\obj\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP PROJE.exe
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\Desktop\OOP PROJE\bin\Debug\OOP PROJE.exe.config
+C:\Users\MONSTER\Desktop\OOP PROJE\bin\Debug\OOP PROJE.exe
+C:\Users\MONSTER\Desktop\OOP PROJE\bin\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\OOP PROJE\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\bin\Debug\OOP PROJE.exe.config
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\bin\Debug\OOP PROJE.exe
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\bin\Debug\OOP PROJE.pdb
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP PROJE.exe
+C:\Users\samet\OneDrive\Masaüstü\oop project doc\obj\Debug\OOP PROJE.pdb
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP PROJE.exe
+C:\Users\szripr\Downloads\oop project doc\obj\Debug\OOP PROJE.pdb
+C:\Users\szripr\Downloads\oop project doc\bin\Debug\OOP PROJE.exe.config
+C:\Users\szripr\Downloads\oop project doc\bin\Debug\OOP PROJE.exe
+C:\Users\szripr\Downloads\oop project doc\bin\Debug\OOP PROJE.pdb
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\bin\Debug\OOP PROJE.exe.config
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\bin\Debug\OOP PROJE.exe
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\bin\Debug\OOP PROJE.pdb
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP PROJE.exe
+C:\Users\furka\Desktop\oop project doc (1)\oop project doc\obj\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP PROJE.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP PROJE.exe
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\Desktop\oop project doc\bin\Debug\OOP PROJE.exe.config
+C:\Users\MONSTER\Desktop\oop project doc\bin\Debug\OOP PROJE.exe
+C:\Users\MONSTER\Desktop\oop project doc\bin\Debug\OOP PROJE.pdb
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.EditNoteForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.LoginForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.MenuForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.NotebookForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.PersonalInformationForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.PhonebookForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.RegisterForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.ReminderForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.SalaryCalculatorForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP_PROJE.UserManagementForm.resources
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP PROJE.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\oop project doc\obj\Debug\OOP PROJE.csproj.CoreCompileInputs.cache
